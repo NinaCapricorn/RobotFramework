@@ -8,7 +8,7 @@
 - **Selenium2Library**
 
     > 提供页面相关操作：例如，文本框输入、元素点击、断言等
-    ![](Selenium2Library.png)
+![](Selenium2Library.png)
     
 
 - **怎样利用RF设计测试用例** 
