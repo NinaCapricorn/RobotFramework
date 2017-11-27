@@ -2,16 +2,16 @@
 ### RobotFramework指南: 基于python的关键字驱动的自动化测试框架
 
 - **RIDE工作原理**
-	![](rf.jpg)
+	![](res/rf.jpg)
 
 - **Selenium2Library**
 	> 提供页面相关操作：例如，文本框输入、元素点击、断言等  
 
-	![](Selenium2Library.png)  
+	![](res/Selenium2Library.png)  
 	
 	> 页面元素定位：自动化测试的核心，常见的定位方式：xpath  
 	
-	![](path.png)
+	![](res/path.png)
 
 - **基于RobotFramework的用例设计思路**  
  
@@ -46,7 +46,7 @@
             2）再继续根据业务关键字继续进一步提取操作关键字；  
         拆分：按照以上提取的关键字拆分重新整合用例；
 		```
-    	![](Keywords.jpg)    
+    	![](res/Keywords.jpg)    
         
 
 

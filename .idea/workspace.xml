@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4a2f5a9-4e7a-4e55-b8ee-9c76ea07f857" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Keywords.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Selenium2Library.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/path.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rf.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IntroductionOfRobotFramework.md" afterPath="$PROJECT_DIR$/IntroductionOfRobotFramework.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/IntroductionOfRobotFramework.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="513">
-                <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+              <first_editor relative-caret-position="627">
+                <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -373,8 +376,8 @@
     <entry file="file://$PROJECT_DIR$/IntroductionOfRobotFramework.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="513">
-            <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <first_editor relative-caret-position="627">
+            <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />
